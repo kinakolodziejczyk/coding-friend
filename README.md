@@ -1,4 +1,4 @@
-# claude-code-leak
+# coding friend
 
 # Dated (2026-03-31)
 
